@@ -1,2 +1,7 @@
-git clone, git add, git commit -m, git push, git pull
+git clone "nom_du_repository
+git add . 
+git commit -m "commentaire"
+git push
+git pull
 git checkout -b "nom_de_la_branche"
+git push -u origin "nom_de_la_branche"
