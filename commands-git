@@ -1,1 +1,2 @@
 git clone, git add, git commit -m, git push, git pull
+git checkout -b "nom_de_la_branche"
